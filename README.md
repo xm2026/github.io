@@ -1,6 +1,6 @@
 ## 本站永久网址： <a href="https://xm2026.github.io " target="_blank">xm2026.github.io</a>
 
-- 分享免费机场订阅（TG群）：https://t.me/aizldjlq
+- 分享自建机场订阅（TG群）：https://t.me/aizldjlq
 
 - TVBOX 在线接口： 
 ```url
