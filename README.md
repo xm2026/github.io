@@ -1,3 +1,4 @@
+## 本站永久网址：https:/xm2026.github.io
 
 - 分享免费机场订阅（TG群）：https://t.me/aizldjlq
 
