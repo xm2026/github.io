@@ -5,12 +5,12 @@
 
 - 获取公开接口： <a href="https://hx208.top " target="_blank">hx208.top</a>    （接口定时更新）
 
+- 本站永久网址: <a href="https://xm2026.github.io" target="_blank">xm2026.github.io</a>
+
 - 免责声明: 本接口来自PG包仅供学习或测试设备，禁止中国大陆用户使用，不得用于商业用途，否则后果自负！
 
 -  总有小人盗用TOKEN导致网盘被封，因此公开在线接口不再提供： UC、115、迅雷、夸克、阿里、移动、pikpak等网盘TOKEN。免翻可以观看YOUTUBE！
-  
-- 本站永久网址: <a href="https://xm2026.github.io" target="_blank">xm2026.github.io</a>
-  
+
 - 免费图床  https://img.hx208.top
 - 免费不限量机场订阅： https://v.xmaec.dynv6.net/fdbd310c-d6e6-459e-8742-8b9b223966e0
 
