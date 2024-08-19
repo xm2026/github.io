@@ -12,7 +12,7 @@
 -  总有小人盗用TOKEN导致网盘被封，因此公开在线接口不再提供： UC、115、迅雷、夸克、阿里、移动、pikpak等网盘TOKEN。免翻可以观看YOUTUBE！
 
 - 免费图床  https://img.hx208.top
-- 免费不限量机场订阅： https://v.xmaec.dynv6.net/fdbd310c-d6e6-459e-8742-8b9b223966e0
+- 免费不限量机场订阅： 移步到TG群组查看
 
 ## TG群组：https://t.me/aizldjlq 
 ## TG频道：https://t.me/hongxitv
