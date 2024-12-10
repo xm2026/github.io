@@ -3,7 +3,7 @@
 ##### 你如果是我们用户，每台盒子都按设备ID和IP内置加密VIP接口！（如果误删线路接口，找代理商咨询）
 ##### VIP接口：提供 UC、115、迅雷、夸克、阿里、移动、pikpak等会员网盘、高速机场！（接口免费使用）
 
-- 获取公开接口： <a href="https://hx208.top " target="_blank">hx208.top</a>    （接口定时更新）
+- 获取公开接口和机场： <a href="https://www.hxyx.us.kg " target="_blank">www.hxyx.us.kg</a>    （接口定时更新）
 
 - 本站永久网址: <a href="https://xm2026.github.io" target="_blank">xm2026.github.io</a>
 
