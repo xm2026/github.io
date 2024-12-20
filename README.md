@@ -10,7 +10,6 @@
   
 </details></center>
 
-- 获取公开接口和机场： <a href="https://www.hxyx.us.kg " target="_blank">www.hxyx.us.kg</a>    （接口定时更新）
 
 - 本站永久网址: <a href="https://xm2026.github.io" target="_blank">xm2026.github.io</a>
 
